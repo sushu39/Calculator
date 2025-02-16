@@ -5,4 +5,5 @@
 =>Installation:
 
 =>Clone the repository: bash git clone  https://github.com/sushu39/Calculator.git
+
 =>Usage: We develop calculators to simplify and automate basic or complex mathematical calculations, saving time and reducing human error.
