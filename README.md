@@ -1,5 +1,6 @@
 =>Calculator Project
    A simple and user-friendly calculator application that performs basic arithmetic operations. Perfect for learning programming fundamentals or as a starting point for more advanced projects.
+
 =>Technologies Used: HTML,CSS,JAVASCRIPT.
 
 =>Installation:
